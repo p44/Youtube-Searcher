@@ -9,7 +9,7 @@
 
 ### Screencap
 
-![picture](public/images/Screen Shot youtube searcher.jpg)
+![Picture](./public/images/Screen Shot youtube searcher.jpg)
 
 ### Modifications to the practice app
 
