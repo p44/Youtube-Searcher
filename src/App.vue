@@ -3,7 +3,7 @@
     <h1 class="ui header center">Youtube Search App</h1>
     <div class="ui centered stackable grid">
       <div class="row">
-        <div class="eight wide column">
+        <div class="nine wide column">
           <VideoDetail></VideoDetail>
         </div>
         <div class="seven wide column">
