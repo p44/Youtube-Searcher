@@ -1,5 +1,3 @@
-# videobrowser
-
 ## Project setup
 ```
 npm install
